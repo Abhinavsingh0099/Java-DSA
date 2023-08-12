@@ -1,2 +1,2 @@
 # Java-DSA
-Array, Strings, Linked list, Graph, Sorting, Tree
+Array, Strings, Linked list, Stack, Graph, Sorting, Tree, 
